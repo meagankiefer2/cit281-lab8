@@ -5,11 +5,13 @@
 * Install node-fetch package, add fastify, and node-fetch
 * Fetch JSONPlaceholder data
 
+
 ### Technologies used
-    Visual Studio Code
+`Visual Studio Code`
+
 
 ### What I learned
-	How to work with Fastify and node-fetch. 
+How to work with Fastify and node-fetch. 
 
 
 Lab 8 Javascript Code
